@@ -8,7 +8,6 @@ In submission.
 + Torch 2.5.1
 + scipy 1.12.0
 + scikit-learn 1.1.1
-+ pillow 11.0.0
 + pandas 2.2.3
 + numpy 1.26.4
 
